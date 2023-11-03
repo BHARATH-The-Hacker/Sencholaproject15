@@ -1,0 +1,71 @@
+.content_1{
+    background-color: #FFF2D8;
+}
+.content_2{
+    background-color: #89CFF3;
+    border-radius: 100px 0px 10px 300px;
+    background-position: right;
+    
+}
+.content_img{
+    background-image: url('https://www.adroll.com/assets/img/homepage/hero-machine.png?format=png&auto=webp&width=576');
+    background-repeat: no-repeat;
+    background-position:right 100px bottom;
+}
+.content_8{
+    background-image: url('https://www.adroll.com/assets/img/globals/bkgd-bluedot-sm.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.footer_bottom ul li{
+    list-style: none;
+
+}
+.footer_bottom p a{
+text-decoration: none;
+color:#45474B;
+font-weight: bold;
+font-size: 10px;
+}
+
+.footer_bottom2 a{
+    text-decoration:none ;
+    color:#45474B;
+    font-weight: 600;
+    font-size: 15px;
+}
+.footer_bottom3 p{
+    font-size: small;
+}
+.footer_bottom3 p a{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;   
+}
+.rbg{
+    width: 100%;
+    height: 90px;
+    background-image: url('https://www.adroll.com/assets/img/globals/bg-nav-platform.png');
+    background-size: 150px;
+    z-index: -1;
+    
+}
+.canvas_body ul li {
+    list-style: none;
+}
+.canvas_body ul li a{
+    color:silver;
+    font-size: small;
+    text-decoration: none;
+}
+.canvas_body h6{
+    color: white;
+}
+.canvas_body p{
+    color: white;
+}
+.btn_close{
+    color: white !important;
+    font-size: large;
+}

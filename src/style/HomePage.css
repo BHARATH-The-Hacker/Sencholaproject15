@@ -1,0 +1,19 @@
+.bannercol {
+  align-items: center;
+  background-image: url(https://www.adroll.com/assets/svg/bkgd/blob-blue.svg);
+  background-position: left -65px bottom -180px;
+  background-repeat: no-repeat;
+  margin-bottom: -50px;
+}
+
+.RoseCircle {
+background-image: url(https://www.adroll.com/assets/svg/bkgd/blob-pink.svg);
+background-position: left -50px top -100px ;
+background-repeat: no-repeat;
+display: flex;
+flex: 1;
+flex-basis: 1%;
+justify-content: center;
+}
+
+
