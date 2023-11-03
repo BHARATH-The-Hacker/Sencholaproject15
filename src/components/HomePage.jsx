@@ -378,7 +378,7 @@ function HomePage() {
                   height: "400px",
                   width: "40%",
                   position: "absolute",
-                  bottom: "-2492px",
+                  bottom: "-2562px",
                   right: "30px",
                   zIndex: "-2",
                 }}
